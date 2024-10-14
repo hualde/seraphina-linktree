@@ -55,7 +55,7 @@ export default function Home() {
               className="block w-full py-3 px-4 bg-gradient-to-r from-yellow-400 to-yellow-600 hover:from-yellow-500 hover:to-yellow-700 text-white font-semibold rounded-lg transition duration-300 ease-in-out transform hover:scale-105 flex items-center justify-center"
             >
               <Heart className="mr-2" />
-              Exclusive content awaits on Fanvue!
+              Unlock my most sensual secrets on Fanvue!
             </a>
           </div>
           
