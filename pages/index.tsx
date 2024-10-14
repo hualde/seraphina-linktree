@@ -60,7 +60,7 @@ export default function Home() {
           </div>
           
           <p className="mt-8 text-yellow-200 font-medium">
-            Join me on this exquisite journey!
+            🐰 Join me on this exquisite journey! 🐰
           </p>
         </div>
       </div>
